@@ -38,5 +38,13 @@ int main()
 		}
 		i++;
 	}
+	cout << nepareizie;
+	cout << "\nPareizi: " << punkti;
+	i = 0;
+	cout << "\nNepareizi atbildētie jautājumi:\n";
+	while (i < nepareizie.length()) {
+		cout << jautajumi[(int)nepareizie[i] - 48];
+		i++;
+	}
 
 }
