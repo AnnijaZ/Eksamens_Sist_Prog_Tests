@@ -4,8 +4,8 @@ Tests,  kurā veic lietotāja zināšanu pārbaudi par biežāk lietotajām funk
 
 10 jautājumu tests
 - [x] Uzsākta testa taisīšana
-- [ ] Izveidoti 10 jautājumi par tēmu
-- [ ] Izveidoti jautājumu atbilžu varianti
+- [x] Izveidoti 10 jautājumi par tēmu
+- [x] Izveidoti jautājumu atbilžu varianti
 - [x] Izveidota iespēja ievadīt pareizās atbildes
 - [x] Izveidota pareizo atbilžu skaitīšana un izvade
 - [x] Izveidota nepareizi atbildēto jautājumu izvade
