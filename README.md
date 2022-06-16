@@ -11,6 +11,6 @@ Tests,  kurā veic lietotāja zināšanu pārbaudi par biežāk lietotajām funk
 - [x] Izveidota nepareizi atbildēto jautājumu izvade
 
 Testēšana
-- [ ] Izveidots testpiemēru dokuments
-- [ ] Izveidoti 20 testpiemēri
-- [ ] Aizpildīts testēšanas žurnāls
+- [x] Izveidots testpiemēru dokuments
+- [x] Izveidoti 20 testpiemēri
+- [x] Aizpildīts testēšanas žurnāls
